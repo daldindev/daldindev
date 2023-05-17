@@ -15,4 +15,4 @@ Desenvolvo projetos **sob encomenda** e por isso raramente posto alguma coisa aq
 
 ## Sobre mim 💬
 
-Iniciei na programação em 2018 com Javascript fazendo projetos principalmente voltados ao **desenvolvimento de sistemas para o Discord**. Atualmente faço traduções e modificações e frameworks de **Arma 3** e escrevo alguns scripts!
+Iniciei na programação em 2018 com Javascript fazendo projetos principalmente voltados ao **desenvolvimento de sistemas para o Discord**. Atualmente faço traduções de modificações e frameworks de **Arma 3** e escrevo alguns scripts!
